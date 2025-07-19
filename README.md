@@ -1,2 +1,1 @@
-# bradesco-zero_day
-Curso Plataforma Holberton
+My first readme
